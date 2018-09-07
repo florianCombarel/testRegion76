@@ -11,7 +11,7 @@
 <Folder><name>regions</name>
 
   <Placemark>
-    <Style><LineStyle><color>ff00ff00</color></LineStyle><PolyStyle><fill>1</fill></PolyStyle></Style>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><color>f1400FF</color><fill>1</fill></PolyStyle></Style>
     <ExtendedData><SchemaData schemaUrl="#regions">
         <SimpleData name="code_insee">76</SimpleData>
         <SimpleData name="nom">Occitanie</SimpleData>
